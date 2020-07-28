@@ -1,2 +1,4 @@
 # components
-一些写过的可复用的插件
+组件
+
+addBackUp--element上传图片后并拖动排序
